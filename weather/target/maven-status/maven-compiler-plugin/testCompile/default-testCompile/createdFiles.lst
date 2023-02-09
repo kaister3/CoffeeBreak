@@ -1,0 +1,3 @@
+com/lemon/weather/WeatherApplicationTests.class
+com/lemon/weather/util/TestOpenWeatherMapClient.class
+com/lemon/weather/util/TestCacheUtil.class

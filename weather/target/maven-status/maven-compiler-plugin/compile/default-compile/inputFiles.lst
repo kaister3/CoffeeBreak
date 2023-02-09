@@ -1,0 +1,15 @@
+/home/wyk/IdeaProjects/weathermap-springboot/weather/src/main/java/com/lemon/weather/controller/WeatherImplDelegate.java
+/home/wyk/IdeaProjects/weathermap-springboot/weather/src/main/java/com/lemon/weather/util/CacheUtil.java
+/home/wyk/IdeaProjects/weathermap-springboot/weather/src/main/java/com/lemon/weather/WeatherApplication.java
+/home/wyk/IdeaProjects/weathermap-springboot/weather/src/main/java/com/lemon/weather/entity/origin/Sys.java
+/home/wyk/IdeaProjects/weathermap-springboot/weather/src/main/java/com/lemon/weather/entity/origin/WeatherData.java
+/home/wyk/IdeaProjects/weathermap-springboot/weather/src/main/java/com/lemon/weather/entity/objective/CurrentWeatherSummary.java
+/home/wyk/IdeaProjects/weathermap-springboot/weather/src/main/java/com/lemon/weather/util/OpenWeatherMapClient.java
+/home/wyk/IdeaProjects/weathermap-springboot/weather/src/main/java/com/lemon/weather/entity/origin/Rain.java
+/home/wyk/IdeaProjects/weathermap-springboot/weather/src/main/java/com/lemon/weather/controller/WeatherImpl.java
+/home/wyk/IdeaProjects/weathermap-springboot/weather/src/main/java/com/lemon/weather/entity/origin/Coordinate.java
+/home/wyk/IdeaProjects/weathermap-springboot/weather/src/main/java/com/lemon/weather/util/RestConfiguration.java
+/home/wyk/IdeaProjects/weathermap-springboot/weather/src/main/java/com/lemon/weather/entity/origin/Main.java
+/home/wyk/IdeaProjects/weathermap-springboot/weather/src/main/java/com/lemon/weather/entity/origin/Weather.java
+/home/wyk/IdeaProjects/weathermap-springboot/weather/src/main/java/com/lemon/weather/entity/origin/Wind.java
+/home/wyk/IdeaProjects/weathermap-springboot/weather/src/main/java/com/lemon/weather/entity/origin/Clouds.java
