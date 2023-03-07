@@ -3,7 +3,7 @@ var globalLanguageEn = {
 	"cityWeather": "City Weather",
 	"search": "Search",
 	"weatherDetails": "Current Weather Details And Forecast For The Next 5 Days",
-	"yourCity": "Your city name (all fight)",
+	"yourCity": "City (full name)",
 	"currentUV": "Current city UV rays",
 	"releaseTime": "Release Time",
 	"index": "Index",
